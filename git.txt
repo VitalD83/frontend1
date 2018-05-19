@@ -1,0 +1,42 @@
+1. cls - очистить консоль
+2. перейти на другой диск - D: + enter
+
+		Заливаю в репозиторий проект с компьютера
+1. Создать репозиторий
+2. Клонируем репозиторий в любую папку
+	git clone https://github.com/alisabond/FE-3
+3. Копируем файлы нашего проекта в ту папку
+4. git add .
+5. git commit -m "..."
+6. Указываем email и name
+	git config user.email "..."
+	git config user.name "..."
+7. git push origin master
+
+		 Скачать проект с репозитория на ПК
+1. Клонируем репозиторий в любую папку
+	git clone https://github.com/alisabond/FE-3
+	git clone https://github.com/alisabond/FE-3 <имя папки>
+
+
+	Создаём ветку
+1. Переключаемся на нужную ветку 
+	git checkout <имя ветки>
+2. Заливаем файл в ветку
+ git add .
+ git commit -m "..."
+ git push origin user
+3. Скачиваем из ветки файлы
+ git pull origin user 	
+
+git commit -m "test"    
+git config user.email "horcrux778@gmail.com"
+git congig user.name "VitalD83"
+git push origin master
+
+
+
+
+
+
+
