@@ -27,13 +27,12 @@
  git commit -m "..."
  git push origin user
 3. Скачиваем из ветки файлы
- git pull origin user 	
+ git pull origin user
 
-git commit -m "test"    
+
+******************
 git config user.email "horcrux778@gmail.com"
-git congig user.name "VitalD83"
-git push origin master
-
+git congig user.name "VitalD8
 
 
 
